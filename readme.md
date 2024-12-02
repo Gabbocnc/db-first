@@ -1,9 +1,8 @@
 # Modellare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario
 
 1. Tabella
-
-    Name : Auto Usate 
-
+   
+   ## Tabella: `Used_Cars`
        
 | ID   |  BRAND | MODEL  | LICENSE PLATE |  YEAR  | CHASSIS NUMBER | KILOMETERS | PRICE | FUEL_TYPE | TRASMISSION | COLOR | DESCRIPTION | IMAGE_URL | REGISTRATION_CITY |
 |------|--------|--------|---------------|--------|----------------|------------|-------|-----------|-------------|-------|-------------|-----------|-------------------| 
@@ -14,7 +13,7 @@
 |      |        |        |               |        |                |            |       |           |             |       |             |           |                   |              
 
 
-## Tabella: `used_cars`
+
 
 ### Tipi di Dato
 
