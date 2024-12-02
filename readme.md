@@ -5,10 +5,29 @@
     Name : Auto Usate 
 
        
-| ID   |  BRAND | MODEL  | LICENSE PLATE |  YEAR  | CHASSIS NUMBER | KILOMETERS | PRICE | FUEL_TYPE | TRASMISSION | COLOR | DESCRIPTION | IMAGE | REGISTRATION_CITY | FORMAT | LANGUAGE |
-|------|--------|--------|---------------|--------|----------------|------------|-------|-----------|-------------|-------|-------------|-------|-------------------|--------|----------|
-|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          |
-|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          |
-|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          |
-|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          |
-|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          |
+| ID   |  BRAND | MODEL  | LICENSE PLATE |  YEAR  | CHASSIS NUMBER | KILOMETERS | PRICE | FUEL_TYPE | TRASMISSION | COLOR | DESCRIPTION | IMAGE | REGISTRATION_CITY | FORMAT |
+|------|--------|--------|---------------|--------|----------------|------------|-------|-----------|-------------|-------|-------------|-------|-------------------|--------| 
+|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          
+|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          
+|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          
+|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          
+|      |        |        |               |        |                |            |       |           |             |       |             |       |                   |        |          
+
+
+2. Tipo di dato :
+
+ID | 
+BRAND | 
+MODEL | 
+LICENSE PLATE | 
+YEAR | 
+CHASSIS NUMBER | 
+KILOMETERS | 
+PRICE | 
+FUEL_TYPE | 
+TRASMISSION | 
+COLOR | 
+DESCRIPTION | 
+IMAGE | 
+REGISTRATION_CITY
+FORMAT | 
