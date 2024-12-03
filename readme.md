@@ -20,7 +20,7 @@
 1. **ID**: `BIGINT` - `PRIMARY KEY`, `AUTO_INCREMENT` (Identificativo univoco dell'auto)
 2. **BRAND**: `VARCHAR(50)` - `NOT NULL` (Marca dell'auto )
 3. **MODEL**: `VARCHAR(50)` - `NOT NULL` (Modello dell'auto)
-4. **LICENSE PLATE**: `VARCHAR(20)` - `UNIQUE`, `NOT NULL` (Targa dell'auto)
+4. **LICENSE PLATE**: `VARCHAR(10)` - `UNIQUE`, `NOT NULL` (Targa dell'auto)
 5. **YEAR**: `YEAR` - `NOT NULL` (Anno di Immatricolazione dell'auto)
 6. **CHASSIS NUMBER**: `VARCHAR(50)` - `UNIQUE`, `NULL` (Numero di telaio)
 7. **KILOMETERS**: `INT` - `NOT NULL` (Kilometraggio dell'auto)
