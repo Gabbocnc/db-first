@@ -29,5 +29,5 @@
 10. **TRANSMISSION**: `VARCHAR(10) - NULL` (Tipo di trasmissione)
 11. **COLOR**: `VARCHAR(30)` - `NULL` (Colore)
 12. **DESCRIPTION**: `TEXT` - `NULL` (Descrizione aggiuntiva)
-13. **IMAGE_URL**: `VARCHAR(255)` - `NOT NULL` (Immagine)
+13. **IMAGE_URL**: `VARCHAR(255)` - `NULL` (Immagine)
 14. **REGISTRATION_CITY**: `VARCHAR(50)` (Citta' di immatricolazione)
